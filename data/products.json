@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Pelota Profesional",
+        "description": "Un balon deportivo, elegante, de poco peso y última generación",
+        "price": 50000,
+        "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/04fe886d5c5146a39037aae300d81639_9366/Pelota_Tsubasa_Pro_UNISEX_Blanco_FR8367_02_standard_hover.jpg",
+        "code": "AD001",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "title": "Pelota Semi-profesional",
+        "description": "Un balón con menos estetica, más peso pero seguro",
+        "price": 35000,
+        "thumbnail": "https://www.digitalsport.com.ar/files/products/60a29f5a40ed0-493052-500x500.jpg",
+        "code": "SF002",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Pelota replica",
+        "description": "Balon de fútbol para entretenimiento",
+        "price": 40000,
+        "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/1/0/100040fr8368001-1.jpg",
+        "code": "AE003",
+        "stock": 2
+    }
+]
